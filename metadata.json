@@ -1,0 +1,7 @@
+{
+  "name": "StyleCart AI – Smart Clothing Store Sales Assistant",
+  "description": "Clean, modern fashion store management platform with customer CRM, clothing inventory, sales enquiry tracking, Gmail synchronization, and an intelligent AI sales assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
